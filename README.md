@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karzinox
-- 👀 I’m interested in Python, HTML, CSS, Java
+- 👀 I’m interested in Python, HTML, CSS, Java, Blockchain, Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
